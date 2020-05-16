@@ -70,5 +70,9 @@ Microphone and Speakers facility for Offline training program.
 ### Eligibility :
 - All Faculty who have JAVA Knowledge are eligible.
 
+<<<<<<< HEAD
 ###DeviAnusha
 
+=======
+### Krishna
+>>>>>>> 55f26c2f6a2b0a641b95b9bc98c382ac69eafdb5
