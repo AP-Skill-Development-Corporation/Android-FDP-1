@@ -69,5 +69,5 @@ Microphone and Speakers facility for Offline training program.
 
 ### Eligibility :
 - All Faculty who have JAVA Knowledge are eligible.
-### Mode Of Training :
+### Mode Of Training : apssdc
 - Online (Via GoToMeeting / Google Meet)
