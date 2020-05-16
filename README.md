@@ -69,5 +69,4 @@ Microphone and Speakers facility for Offline training program.
 
 ### Eligibility :
 - All Faculty who have JAVA Knowledge are eligible.
-### Mode Of Training :
-- Online (Via GoToMeeting / Google Meet)
+
