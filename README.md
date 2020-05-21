@@ -72,3 +72,5 @@ Microphone and Speakers facility for Offline training program.
 
 ### Software link 
  https://developer.android.com/studio
+### Common Intents Reference Link
+ https://developer.android.com/guide/components/intents-common
