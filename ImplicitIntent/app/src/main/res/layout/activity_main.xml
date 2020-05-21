@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+    <EditText
+        android:id="@+id/edit_text"
+        android:inputType="text"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:hint="@string/hit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/bt_dail"
+        android:text="@string/bt_dail"
+        android:onClick="dail"
+        style="@style/button_style"
+         />
+    <Button
+        android:id="@+id/bt_share"
+        android:text="@string/bt_share"
+        android:onClick="sharetext"
+        style="@style/button_style"/>
+    <Button
+        android:id="@+id/bt_whatsapp"
+        android:text="@string/bt_whatsapp"
+        android:onClick="whatsapp"
+        style="@style/button_style"/>
+
+</LinearLayout>

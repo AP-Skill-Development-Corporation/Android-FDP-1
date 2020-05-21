@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="bt_dail">Dail</string>
+    <string name="bt_share">Share Text</string>
+    <string name="bt_whatsapp">Open Whatsapp</string>
+    <string name="hit">Enter text or number here</string>
+</resources>
