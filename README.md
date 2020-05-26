@@ -11,66 +11,63 @@ Microphone and Speakers facility for Offline training program.
 ### Duration :
 36 Hours (3 hours each day X 12 days)
 
-	
-### Syllabus :
 
-      Introduction to Mobile App Development
-      History of Mobile evolution
-      Version History of Android 
-      Android Architecture
-      Installing the Development Environment
-      Installation of Android Studio
-      Installation of Android emulator
-      Connecting the physical device with the IDE
-      Creating the first application 
-      Hello World
-      Creating a User Interactable App
-      Hello Toast
-      Text and Scroll View
-      Intents
-      Explicit Intents
-      Implicit Intents
-      Activity LifeCycle
-      User Interface Components
-      Buttons and Clickable Images
-      Input Controls
-      Menus & Pickers
-      Using Material Design for UI
-      User Navigation
-      Navigation Drawer 
-      Navigation Components
-      Navigation Graph
-      Navigation Host
-      Navigation Controller
-      Ancestral and Back Navigation
-      Lateral Navigation
-      Tabs for navigation
-      Recyclerview and DiffUtil
-      Working in the background
-      Fetching JSON Data from the internet using retrofit GET.
-      Discussion of various JSON Converters.
-      Writing data to the api using retrofit POST.
-      Broadcast Receivers
-      Schedulers
-      Notifications
-      WorkManger
-      Saving user Data
-      ViewModel
-      LiveData
-      SharedPreferences
-      Room Persistence Library.
+## FDP Syllabus :
+
+       1. Introduction to Mobile App Development
+       2. History of Mobile evolution
+       3. Version History of Android 
+       4. Android Architecture
+       5. Installing the Development Environment
+            a. Installation of Android Studio
+            b. Installation of Android emulator
+            c. Connecting the physical device with the IDE
+       6. Creating the first application 
+       7. Hello World
+       8. Creating a User Interactable App
+       9. Hello Toast
+      10. Text and Scroll View
+      11. Intents
+            a. Explicit Intents
+            b. Implicit Intents
+      12. Activity LifeCycle
+      13. User Interface Components
+      14. Buttons and Clickable Images
+      15. Input Controls
+      16. Menus & Pickers
+      17. Using Material Design for UI
+      18. User Navigation
+            a. Navigation Drawer 
+            b. Navigation Components
+                  i. Navigation Graph
+                 ii. Navigation Host
+                iii. Navigation Controller
+            c. Ancestral and Back Navigation
+            d. Lateral Navigation 
+                  i. Tabs for navigation
+      19. Recyclerview and DiffUtil
+      20. Working in the background
+      21. Fetching JSON Data from the internet using retrofit GET.
+            a. Discussion of various JSON Converters.
+            b. Writing data to the api using retrofit POST.
+      22. Broadcast Receivers
+      23. Schedulers
+            a. Notifications
+            b. WorkManger
+      24. Saving user Data
+            a. ViewModel
+            b. LiveData
+            c. SharedPreferences
+            d. Room Persistence Library.
 
 
 
 ### Course Objectives :
-- To enable the faculty of Engineering Colleges to be able to develop android apps so that they can share the same knowledge to their students.
+- To enable the faculty of all Engineering Colleges to be able to develop android apps so that they can share the same knowledge to their students.
 ### Entry Requirements :
 - Faculty attending this FDP should have a good knowledge in JAVA.
 
 ### Eligibility :
 - All Faculty who have JAVA Knowledge are eligible.
-
-### Software link 
- https://developer.android.com/studio
-### Common Intents Reference Link
- https://developer.android.com/guide/components/intents-common
+### Mode Of Training :
+- Online (Via GoToMeeting / Google Meet)
