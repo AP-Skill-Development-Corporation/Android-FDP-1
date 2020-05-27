@@ -7,6 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+  <!--For First Component Tablayout-->
 
   <com.google.android.material.tabs.TabLayout
       android:layout_width="match_parent"
@@ -14,6 +15,7 @@
       android:background="@color/colorPrimary"
       app:tabTextColor="@android:color/white"
       android:id="@+id/mytabLayout"/>
+  <!--For Second Component ViewPager-->
     <androidx.viewpager.widget.ViewPager
         android:layout_width="match_parent"
         android:layout_height="match_parent"
