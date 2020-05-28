@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Login_Activity">
+    <EditText
+        android:id="@+id/name"
+        android:inputType="text"
+        android:textSize="20sp"
+        android:hint="@string/enter_your_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/password"
+        android:inputType="textPassword"
+        android:textSize="20sp"
+        android:hint="@string/enter_your_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/ok"
+        android:onClick="ok"
+        android:layout_gravity="center"
+        android:textSize="30sp"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

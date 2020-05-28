@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shardprefernces_Database</string>
+    <string name="please_enter_the_name_here">Please enter the name here</string>
+    <string name="register">Register</string>
+    <string name="enter_your_email_id">Enter your Email ID</string>
+    <string name="enter_password_here">Enter password here</string>
+    <string name="login">Login</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="ok">ok</string>
+</resources>
