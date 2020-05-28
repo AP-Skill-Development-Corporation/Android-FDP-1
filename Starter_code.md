@@ -1,4 +1,4 @@
-# ViewModel and LiveData Session Starter Code
+# ViewModel and LiveData - Starter Code
 Please copy the following code and paste it in your ***activity_main.xml***
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
