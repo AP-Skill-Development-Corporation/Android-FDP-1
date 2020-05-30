@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RoomDataBase</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="enete_name_here">Enete Name Here</string>
+    <string name="save">Save</string>
+</resources>
