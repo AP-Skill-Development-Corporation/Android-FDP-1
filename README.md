@@ -71,6 +71,11 @@ Microphone and Speakers facility for Offline training program.
 - All Faculty who have JAVA Knowledge are eligible.
 ### Mode Of Training :
 - Online (Via GoToMeeting / Google Meet)
+
+## Assignments for more practice:
+* https://docs.google.com/document/d/1s386eHtfqgVQiiokRfE83240tFpYFyoki0KxKd_Yli0/edit?usp=sharing
+#### (Note: All coding assignments/challenges are optional and are not prerequisites.)
+
 ### Room Data Base Dependency
 
 	annotationProcessor "androidx.room:room-compiler:2.2.5"
