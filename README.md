@@ -71,3 +71,7 @@ Microphone and Speakers facility for Offline training program.
 - All Faculty who have JAVA Knowledge are eligible.
 ### Mode Of Training :
 - Online (Via GoToMeeting / Google Meet)
+### Room Data Base Dependency
+
+	annotationProcessor "androidx.room:room-compiler:2.2.5"
+	androidTestImplementation "androidx.room:room-testing:2.2.5"
