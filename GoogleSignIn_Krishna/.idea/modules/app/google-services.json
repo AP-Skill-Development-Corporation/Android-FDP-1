@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31585721986",
+    "firebase_url": "https://signinkrishna-e8978.firebaseio.com",
+    "project_id": "signinkrishna-e8978",
+    "storage_bucket": "signinkrishna-e8978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31585721986:android:0f1b6073cbb000b5b69e9b",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin_krishna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31585721986-6c6iq9knud32d6sfstk1796kajnuc0bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesignin_krishna",
+            "certificate_hash": "8a54046c557ac40150936d13ec325b8716557eae"
+          }
+        },
+        {
+          "client_id": "31585721986-2qoi6tl7gqum5q1i8o8vvqro2ugofpbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdTaBSHV9qK6kDxlNecv0sXlRZHxlPIPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31585721986-2qoi6tl7gqum5q1i8o8vvqro2ugofpbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
